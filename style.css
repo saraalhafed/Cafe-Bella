@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(./coffe\ img.webp);
+  background-image: url("./coffe\ img.webp");
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover; /* Cover the entire element with the background image */
